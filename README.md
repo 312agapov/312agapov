@@ -30,5 +30,5 @@
 ![Spring](https://img.shields.io/badge/Spring-green?style=flat-square&logo=spring&logoColor=white)
 
 ## Как меня найти
-<h4>![Telegram](https://img.shields.io/badge/TELEGRAM-blue?style=flat-square&logo=telegram&logoColor=white) @keeptag
-<h4>![Gmail](https://img.shields.io/badge/GMAIL-blue?style=flat-square&logo=gmail&logoColor=orange) 312agapov@gmail.com
+![Telegram](https://img.shields.io/badge/TELEGRAM-blue?style=flat-square&logo=telegram&logoColor=white) @keeptag
+![Gmail](https://img.shields.io/badge/GMAIL-blue?style=flat-square&logo=gmail&logoColor=orange) 312agapov@gmail.com
